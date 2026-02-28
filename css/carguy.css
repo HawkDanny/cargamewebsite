@@ -1,0 +1,27 @@
+body {
+    margin: 0px;
+}
+
+p {
+    margin: 0px;
+}
+
+.homeMain {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.homeCaption {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+
+    font-family: "Gowun Batang", serif;
+}
+
+.homeTitle {
+    font-style: italic;
+    font-size: 36px;
+}
